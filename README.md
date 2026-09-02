@@ -1,2 +1,19 @@
-# BASIC_HTML_CSS_NACTTC
-Welcome to this GitHub Repository! It includes my basic practice files of html with CSS which I wrote while I was enrolled in Advanced Web Application &amp; Development course offered by the (NAVTTC) at Air University Islamabad. This repository serves as a valuable resource for students…
+# 🌐 HTML & CSS Practice
+A collection of frontend practice exercises created while completing the **Advanced Web Application & Development** course offered through NAVTTC.
+
+### 🛠️ Technologies
+* HTML5
+* CSS3
+
+### 📚 What You'll Find
+The repository contains small exercises and practice pages focused on:
+
+* HTML structure
+* Forms
+* Text and images
+* CSS styling
+* Layout fundamentals
+* Basic webpage design
+
+### 🎯 Purpose
+This repository documents my early hands-on practice with HTML and CSS and my progress in learning frontend development.
