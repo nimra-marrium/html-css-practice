@@ -1,11 +1,11 @@
-# 🌐 HTML & CSS Practice
+# HTML & CSS Practice
 A collection of frontend practice exercises created while completing the **Advanced Web Application & Development** course offered through NAVTTC.
 
-### 🛠️ Technologies
+### Technologies
 * HTML5
 * CSS3
 
-### 📚 What You'll Find
+### What You'll Find
 The repository contains small exercises and practice pages focused on:
 
 * HTML structure
@@ -15,5 +15,5 @@ The repository contains small exercises and practice pages focused on:
 * Layout fundamentals
 * Basic webpage design
 
-### 🎯 Purpose
+### Purpose
 This repository documents my early hands-on practice with HTML and CSS and my progress in learning frontend development.
